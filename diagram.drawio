@@ -358,7 +358,7 @@
           <mxGeometry height="60" width="120" x="4242.625" y="2602.5" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" value="WHERE TO TRIGGER CGW???" vertex="1">
-          <mxGeometry height="290" width="450.63" x="5209.5" y="2212.5" as="geometry" />
+          <mxGeometry height="290" width="450.63" x="5285.74" y="2290" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-133" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-88" value="">
           <mxGeometry relative="1" as="geometry" />
