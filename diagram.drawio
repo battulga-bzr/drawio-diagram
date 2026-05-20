@@ -337,17 +337,17 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Scheduler" vertex="1">
           <mxGeometry height="60" width="120" x="1620" y="905" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-114" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-113" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-127" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-126" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-111" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="journal tx sum(amount)&lt;br&gt;= held_amount" vertex="1">
-          <mxGeometry height="180" width="166.25" x="2720" y="1517.5" as="geometry" />
+        <mxCell id="In8fDh9ZLN2M87an2Miy-135" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-111" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="loan -&amp;gt; casa amount = held_amount" vertex="1">
+          <mxGeometry height="180" width="166.25" x="2720" y="1697.5" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-113" parent="1" style="whiteSpace=wrap;html=1;" value="status = approved&lt;br&gt;processed_at = now&lt;br&gt;release held_amount&lt;br&gt;create loan" vertex="1">
-          <mxGeometry height="72.5" width="130" x="2960" y="1571.25" as="geometry" />
+          <mxGeometry height="72.5" width="130" x="3419.37" y="1751.25" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-122" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-121" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -371,19 +371,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-126" parent="1" style="whiteSpace=wrap;html=1;" value="loan was not issued fully" vertex="1">
-          <mxGeometry height="60" width="120" x="2743.125" y="1790" as="geometry" />
+          <mxGeometry height="60" width="120" x="2743.125" y="1970" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-128" parent="1" style="whiteSpace=wrap;html=1;" value="status = review?" vertex="1">
-          <mxGeometry height="60" width="120" x="2743.125" y="1930" as="geometry" />
+          <mxGeometry height="60" width="120" x="2743.125" y="2110" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" value="WHERE TO TRIGGER CGW???" vertex="1">
-          <mxGeometry height="290" width="450.63" x="3300" y="1675" as="geometry" />
+          <mxGeometry height="290" width="450.63" x="3710" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-133" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-88" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-131" parent="1" style="whiteSpace=wrap;html=1;" value="processed_at = now" vertex="1">
           <mxGeometry height="60" width="120" x="4116.87" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-141" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-145" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-144" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-134" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="casa -&amp;gt; domestic (CGW)&lt;br&gt;exists?" vertex="1">
+          <mxGeometry height="180" width="190" x="2950" y="1697.5" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-142" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-139" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="casa -&amp;gt; domestic amount = held_amount" vertex="1">
+          <mxGeometry height="180" width="172.5" x="3200" y="1697.5" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-147" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-146" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-144" parent="1" style="whiteSpace=wrap;html=1;" value="Trigger CGW" vertex="1">
+          <mxGeometry height="60" width="120" x="2985" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-148" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-150" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-149" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-146" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="200" vertex="1">
+          <mxGeometry height="80" width="80" x="3205" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-149" parent="1" style="whiteSpace=wrap;html=1;" value="next_retry_at = now + 5min" vertex="1">
+          <mxGeometry height="60" width="155" x="3167.5" y="2130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
