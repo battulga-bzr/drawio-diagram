@@ -413,7 +413,7 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-244" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-152" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="loan_application.amount &amp;lt;= line.available_amount" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-152" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="loan_application.amount &amp;lt;= line.available_amount&lt;br&gt;(hold amount does &lt;br&gt;not exceed available)" vertex="1">
           <mxGeometry height="190" width="230" x="1000" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-158" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.989;exitY=0.096;exitDx=0;exitDy=0;exitPerimeter=0;" target="In8fDh9ZLN2M87an2Miy-157">
