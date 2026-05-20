@@ -304,6 +304,9 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-80" parent="1" style="whiteSpace=wrap;html=1;" value="release &lt;br&gt;loan_application.held_amount" vertex="1">
           <mxGeometry height="60" width="215" x="3040" y="1000" as="geometry" />
         </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-95" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-94" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-82" parent="1" style="whiteSpace=wrap;html=1;" value="loan_application&lt;br&gt;next_retry_at = now + 5min" vertex="1">
           <mxGeometry height="60" width="170" x="2755" y="1060" as="geometry" />
         </mxCell>
@@ -312,6 +315,9 @@
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-88" parent="1" style="whiteSpace=wrap;html=1;" value="create loan" vertex="1">
           <mxGeometry height="60" width="215" x="3040" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-94" parent="1" style="whiteSpace=wrap;html=1;" value="retry_count &amp;gt; 3&lt;br&gt;status = unknown" vertex="1">
+          <mxGeometry height="60" width="120" x="2780" y="1200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
