@@ -431,7 +431,7 @@
             <mxPoint x="3119.5" y="1425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-192" connectable="0" parent="In8fDh9ZLN2M87an2Miy-177" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="return warning?,&lt;br&gt;row is not scheduler&#39;s task&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-192" connectable="0" parent="In8fDh9ZLN2M87an2Miy-177" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="return warning?,&lt;br&gt;row is now scheduler&#39;s task&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7641" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -488,7 +488,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-195" connectable="0" parent="In8fDh9ZLN2M87an2Miy-187" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="return warning?,&lt;br&gt;row is not scheduler&#39;s task&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-195" connectable="0" parent="In8fDh9ZLN2M87an2Miy-187" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="return warning?,&lt;br&gt;row is now scheduler&#39;s task&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.5656" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
