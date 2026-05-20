@@ -321,7 +321,7 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-135" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-111" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="loan -&amp;gt; casa amount = held_amount" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-111" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="loan -&amp;gt; casa amount = loan_amount" vertex="1">
           <mxGeometry height="180" width="166.25" x="4219.5" y="2190" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-113" parent="1" style="whiteSpace=wrap;html=1;" value="status = approved&lt;br&gt;processed_at = now&lt;br&gt;release held_amount&lt;br&gt;create loan" vertex="1">
@@ -375,7 +375,7 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-142" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-139" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="casa -&amp;gt; domestic amount = held_amount" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-139" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="casa -&amp;gt; domestic amount = loan_amount" vertex="1">
           <mxGeometry height="180" width="172.5" x="4699.5" y="2190" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-147" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-146" value="">
