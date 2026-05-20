@@ -181,7 +181,7 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-15" parent="In8fDh9ZLN2M87an2Miy-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="create loan_application" vertex="1">
           <mxGeometry height="30" width="260" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-104" parent="In8fDh9ZLN2M87an2Miy-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="loan_applications = submitted" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-104" parent="In8fDh9ZLN2M87an2Miy-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="loan_application.sattus = submitted" vertex="1">
           <mxGeometry height="30" width="260" y="60" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-16" parent="In8fDh9ZLN2M87an2Miy-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" value="loan_limits.held_amount = amount" vertex="1">
