@@ -479,6 +479,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-195" connectable="0" parent="In8fDh9ZLN2M87an2Miy-187" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="return warning?,&lt;br&gt;row is not scheduler&#39;s task&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5656" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-183" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;startSize=30;horizontal=1;" value="db transaction success?" vertex="1">
           <mxGeometry height="135" width="130" x="2930" y="1122.5" as="geometry" />
         </mxCell>
