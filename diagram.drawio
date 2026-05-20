@@ -175,7 +175,7 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-13" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="Return err message" vertex="1">
           <mxGeometry height="60" width="120" x="700" y="1075" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-14" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="statuses" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-14" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="queries" vertex="1">
           <mxGeometry height="120" width="260" x="930" y="1005" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-15" parent="In8fDh9ZLN2M87an2Miy-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="loan_applications = submitted" vertex="1">
