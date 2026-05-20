@@ -233,7 +233,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Polaris&lt;br&gt;/loan/&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;getAccountDetail&lt;/span&gt;&lt;br&gt;loan_application.amount &amp;lt;= polaris.available_amount" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="loan_application.amount &amp;lt;= polaris.available_amount" vertex="1">
           <mxGeometry height="190" width="230" x="4708.87" y="1665" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-64" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-63" value="">
@@ -267,8 +267,8 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-119" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-118" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-68" parent="1" style="whiteSpace=wrap;html=1;" value="Polaris&lt;br&gt;/gen/&lt;span style=&quot;white-space: pre-wrap; color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;getTmwJournalList&lt;br&gt;query = loan_acnt&lt;/span&gt;" vertex="1">
-          <mxGeometry height="120" width="190" x="3780" y="1372.5" as="geometry" />
+        <mxCell id="In8fDh9ZLN2M87an2Miy-68" parent="1" style="whiteSpace=wrap;html=1;" value="Polaris&lt;br&gt;/gen/&lt;span style=&quot;white-space: pre-wrap; color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;getTmwJournalList&lt;br&gt;query = loan_acnt&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; text-align: center; white-space: normal; background-color: rgb(27, 29, 30);&quot;&gt;/loan/&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); background-color: rgb(255, 255, 255);&quot;&gt;getAccountDetail&lt;br/&gt;-&amp;gt; polaris.available_amount&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="297.5" width="190" x="3780" y="1283.75" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-71" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-59">
           <mxGeometry relative="1" as="geometry" />
