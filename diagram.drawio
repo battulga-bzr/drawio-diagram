@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="In8fDh9ZLN2M87an2Miy-172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="480" width="1000" x="600" y="757.5" as="geometry" />
+          <mxGeometry height="480" width="1240" x="360" y="757.5" as="geometry" />
         </mxCell>
         <mxCell id="KqixbsF9o6dLofBvsG9t-5" edge="1" parent="1" source="KqixbsF9o6dLofBvsG9t-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KqixbsF9o6dLofBvsG9t-4" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -426,7 +426,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="loan account row lock" vertex="1">
-          <mxGeometry height="60" width="145" x="420" y="905" as="geometry" />
+          <mxGeometry height="60" width="145" x="425" y="905" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-165" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-12">
           <mxGeometry relative="1" as="geometry" />
