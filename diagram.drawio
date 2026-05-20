@@ -235,7 +235,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="loan_limits.held_amount &amp;lt;= polaris.available_amount" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Polaris&lt;br&gt;/loan/&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;getAccountDetail&lt;/span&gt;&lt;br&gt;loan_limits.held_amount &amp;lt;= polaris.available_amount" vertex="1">
           <mxGeometry height="190" width="230" x="2847.5" y="840" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-64" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-63" value="">
