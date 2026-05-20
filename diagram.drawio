@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="2425" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1921" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="In8fDh9ZLN2M87an2Miy-188" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="1540" width="1870" x="4020" y="1215" as="geometry" />
+          <mxGeometry height="1965" width="1880" x="4010" y="1215" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="480" width="1240" x="830" y="977.5" as="geometry" />
@@ -324,7 +324,7 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-135" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-111" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="loan -&amp;gt; casa amount = loan_amount" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-111" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="loan -&amp;gt; casa exists" vertex="1">
           <mxGeometry height="180" width="166.25" x="4219.5" y="2190" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-113" parent="1" style="whiteSpace=wrap;html=1;" value="status = approved&lt;br&gt;processed_at = now&lt;br&gt;release held_amount&lt;br&gt;create loan" vertex="1">
@@ -348,14 +348,11 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-123" parent="1" style="whiteSpace=wrap;html=1;" value="skip processing" vertex="1">
           <mxGeometry height="60" width="120" x="4434.5" y="1402.5" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-129" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-128" value="">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-216" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-214">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-126" parent="1" style="whiteSpace=wrap;html=1;" value="loan was not issued fully" vertex="1">
-          <mxGeometry height="60" width="120" x="4242.625" y="2462.5" as="geometry" />
-        </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-128" parent="1" style="whiteSpace=wrap;html=1;" value="status = review?" vertex="1">
-          <mxGeometry height="60" width="120" x="4242.625" y="2602.5" as="geometry" />
+        <mxCell id="In8fDh9ZLN2M87an2Miy-126" parent="1" style="whiteSpace=wrap;html=1;" value="polaris&lt;br&gt;/loan/&lt;span style=&quot;white-space: pre-wrap; color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;grantLoanNonCash&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="157.38" x="4223.93" y="2440" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" value="WHERE TO TRIGGER CGW???" vertex="1">
           <mxGeometry height="290" width="450.63" x="5285.74" y="2290" as="geometry" />
@@ -544,6 +541,25 @@
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-212" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="Same as one-tap ??" vertex="1">
           <mxGeometry height="60" width="120" x="950" y="3135" as="geometry" />
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-217" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-149">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4303" y="2702" />
+              <mxPoint x="4744" y="2702" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-218" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4450" y="2630" />
+              <mxPoint x="4450" y="2280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="In8fDh9ZLN2M87an2Miy-214" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="200" vertex="1">
+          <mxGeometry height="80" width="80" x="4262.62" y="2590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
