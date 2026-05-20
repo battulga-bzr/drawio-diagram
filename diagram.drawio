@@ -391,7 +391,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-144" parent="1" style="whiteSpace=wrap;html=1;" value="Trigger CGW" vertex="1">
-          <mxGeometry height="60" width="120" x="4895" y="2482.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="4895" y="2510" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-148" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-113">
           <mxGeometry relative="1" as="geometry" />
@@ -400,7 +400,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-146" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="200" vertex="1">
-          <mxGeometry height="80" width="80" x="5115" y="2472.5" as="geometry" />
+          <mxGeometry height="80" width="80" x="5115" y="2500" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-149" parent="1" style="whiteSpace=wrap;html=1;" value="next_retry_at = now + 5min" vertex="1">
           <mxGeometry height="60" width="155" x="5077.5" y="2650" as="geometry" />
