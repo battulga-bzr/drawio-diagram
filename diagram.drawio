@@ -762,7 +762,7 @@
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-99" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="200" vertex="1">
           <mxGeometry height="170" width="170" x="2055" y="2380" as="geometry" />
         </mxCell>
-        <mxCell id="P7TJZT1PVnBYbLh7lMs1-100" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="opened.&lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;txnJrno: &lt;/span&gt;&lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;954590001013&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-100" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="response:&lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;txnJrno: &lt;/span&gt;&lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;954590001013&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="185" x="2330" y="2435" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-103" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="P7TJZT1PVnBYbLh7lMs1-90">
@@ -814,7 +814,7 @@
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-122" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="200" vertex="1">
           <mxGeometry height="170" width="170" x="2055" y="3030" as="geometry" />
         </mxCell>
-        <mxCell id="P7TJZT1PVnBYbLh7lMs1-123" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="opened.&lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;txnJrno: &lt;/span&gt;&lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;954590001013&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-123" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="response:&lt;br&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); line-height: 18px; color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ffa7a7&quot; face=&quot;IBMPlexMono, Monaco, Courier New, monospace, Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;1&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="185" x="2330" y="3085" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-124" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="P7TJZT1PVnBYbLh7lMs1-115">
@@ -831,10 +831,10 @@
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-127" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-129" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P7TJZT1PVnBYbLh7lMs1-128" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;errorCode: &lt;/span&gt;&lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;41308005&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-128" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;errorCode: &lt;/span&gt;&lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;41390820&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="155" width="190" x="2260" y="3287.5" as="geometry" />
         </mxCell>
-        <mxCell id="P7TJZT1PVnBYbLh7lMs1-129" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="success.&lt;br&gt;already opened" vertex="1">
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-129" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="success?&lt;br&gt;already created schedule" vertex="1">
           <mxGeometry height="60" width="120" x="2530" y="3335" as="geometry" />
         </mxCell>
       </root>
