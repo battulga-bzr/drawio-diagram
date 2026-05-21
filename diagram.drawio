@@ -685,13 +685,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-93" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="/loan/&lt;span style=&quot;background-color: rgb(252, 246, 219); color: rgb(0, 0, 0); font-family: &amp;quot;Anonymous Pro&amp;quot;, Menlo, Consolas, &amp;quot;Bitstream Vera Sans Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 0.9em; text-align: start;&quot;&gt;openAccount&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="290" x="1440" y="3645" as="geometry" />
+          <mxGeometry height="60" width="290" x="1543.75" y="3645" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-107" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="P7TJZT1PVnBYbLh7lMs1-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-96" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); line-height: 18px;&quot;&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;acntCode&lt;br/&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;txnDesc&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="125" width="120" x="1525" y="3760" as="geometry" />
+          <mxGeometry height="125" width="120" x="1628.75" y="3760" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-97" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-100" value="">
           <mxGeometry relative="1" as="geometry" />
