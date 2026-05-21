@@ -623,11 +623,8 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-241" parent="1" style="whiteSpace=wrap;html=1;" value="return err msg" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="1345" as="geometry" />
         </mxCell>
-        <mxCell id="P7TJZT1PVnBYbLh7lMs1-2" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-1" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-247" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Call Polaris APIs in order:" vertex="1">
-          <mxGeometry height="180" width="270" x="2050" y="1115" as="geometry" />
+          <mxGeometry height="210" width="270" x="2050" y="1115" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-248" parent="In8fDh9ZLN2M87an2Miy-247" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;/loan/createAccount - no retry&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="270" y="30" as="geometry" />
@@ -644,8 +641,8 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-256" parent="In8fDh9ZLN2M87an2Miy-247" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;/loan/&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap; color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;grantLoanNonCash - retry&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="270" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="P7TJZT1PVnBYbLh7lMs1-1" parent="1" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;horizontal=1;" value="CGW Trigger should be done separately" vertex="1">
-          <mxGeometry height="60" width="120" x="2125" y="1375" as="geometry" />
+        <mxCell id="In8fDh9ZLN2M87an2Miy-255" parent="In8fDh9ZLN2M87an2Miy-247" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Inter, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica, Arial, sans-serif&quot; style=&quot;color: light-dark(rgb(188, 188, 188), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;CGW Trigger ??&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="270" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
