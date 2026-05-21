@@ -858,8 +858,23 @@
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-135" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="schedule exists" vertex="1">
           <mxGeometry height="120" width="130" x="1878.75" y="3140" as="geometry" />
         </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-144" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-143" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-139" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="/loan/&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;updateNrsSchedule&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="165" x="2078.75" y="3170" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-148" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-147" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-149" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="P7TJZT1PVnBYbLh7lMs1-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-143" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="200" vertex="1">
+          <mxGeometry height="80" width="80" x="2330" y="3160" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-147" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="retry?" vertex="1">
+          <mxGeometry height="60" width="120" x="2310" y="3280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
