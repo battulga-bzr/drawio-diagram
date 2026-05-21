@@ -120,8 +120,11 @@
         <mxCell id="KqixbsF9o6dLofBvsG9t-65" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" value="Polaris (Line)&lt;br&gt;/line/createAccount" vertex="1">
           <mxGeometry height="70" width="190" x="1940" y="205" as="geometry" />
         </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-4" edge="1" parent="1" source="KqixbsF9o6dLofBvsG9t-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KqixbsF9o6dLofBvsG9t-73" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Persist polaris account?" vertex="1">
-          <mxGeometry height="60" width="120" x="2210" y="210" as="geometry" />
+          <mxGeometry height="60" width="120" x="2220" y="210" as="geometry" />
         </mxCell>
         <mxCell id="U8Ajh8Gpa-m2DNKNFQys-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="One-Tap loan request flow" vertex="1">
           <mxGeometry height="30" width="470" x="-290" y="850" as="geometry" />
@@ -643,6 +646,9 @@
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-255" parent="In8fDh9ZLN2M87an2Miy-247" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Inter, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica, Arial, sans-serif&quot; style=&quot;color: light-dark(rgb(188, 188, 188), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;CGW Trigger ??&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="270" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Polaris&lt;br&gt;/line/openAccount" vertex="1">
+          <mxGeometry height="60" width="120" x="2420" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
