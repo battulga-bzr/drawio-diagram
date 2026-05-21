@@ -873,14 +873,14 @@
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-168" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-167" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P7TJZT1PVnBYbLh7lMs1-165" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); line-height: 18px;&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;&quot;errorType&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(4, 81, 165);&quot;&gt;&quot;NES&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;&quot;errorCode&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;41390318&lt;/span&gt;,&lt;br/&gt;...&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="155" width="355" x="2275" y="4587.5" as="geometry" />
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-165" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); line-height: 18px;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); line-height: 18px;&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;&quot;errorType&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(4, 81, 165);&quot;&gt;&quot;NES&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;&quot;errorCode&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;41390318&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;&quot;errorNes&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(4, 81, 165);&quot;&gt;&quot;5109103600000003, &lt;br&gt;5109122017000009 (1308) &lt;br&gt;дансны дугаараар  Шинэ төлөвтэй хэрэглээний &lt;br/&gt;бүртгэл байгаа тул дахин холбох боломжгүй!&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="322.5" width="555" x="2240" y="4503.75" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-166" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="already linked" vertex="1">
-          <mxGeometry height="60" width="120" x="2710" y="4635" as="geometry" />
+          <mxGeometry height="60" width="120" x="2910" y="4635" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-167" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="reconcile??" vertex="1">
-          <mxGeometry height="60" width="120" x="2392.5" y="4830" as="geometry" />
+          <mxGeometry height="60" width="120" x="2457.5" y="4980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
