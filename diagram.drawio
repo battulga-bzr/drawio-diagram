@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="3932" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2816" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -823,6 +823,58 @@
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-147" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="retry" vertex="1">
           <mxGeometry height="60" width="120" x="2325" y="2664.37" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-151" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="P7TJZT1PVnBYbLh7lMs1-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-152" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reconcile&lt;br&gt;/line/&lt;span style=&quot;font-family: &amp;quot;Anonymous Pro&amp;quot;, Menlo, Consolas, &amp;quot;Bitstream Vera Sans Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 10.8px; text-align: left; white-space: pre-wrap;&quot;&gt;linkLineAccountToLoan&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="205" x="1245" y="4385" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-153" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="P7TJZT1PVnBYbLh7lMs1-159" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1820" y="4415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-154" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="/line/&lt;span style=&quot;font-family: &amp;quot;Anonymous Pro&amp;quot;, Menlo, Consolas, &amp;quot;Bitstream Vera Sans Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 10.8px; text-align: left; white-space: pre-wrap;&quot;&gt;linkLineAccountToLoan&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="290" x="1600" y="4385" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-155" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="P7TJZT1PVnBYbLh7lMs1-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-156" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); line-height: 18px;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); line-height: 18px;&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;txnAcntCode&quot;&lt;/span&gt;: &lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;contAcntCode&quot;&lt;/span&gt;: &lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;contAmount&quot;&lt;/span&gt;: &lt;span style=&quot;color: #0451a5;font-weight: bold;&quot;&gt;null&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="215" x="1637.5" y="4500" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-157" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-160" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-158" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-163" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-159" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="200" vertex="1">
+          <mxGeometry height="170" width="170" x="2070" y="4330" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-160" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="response:&lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;txnJrno: &lt;/span&gt;&lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;954590001013&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="185" x="2345" y="4385" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-161" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="P7TJZT1PVnBYbLh7lMs1-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2155" y="4786.88" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-162" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-165" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-163" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="501" vertex="1">
+          <mxGeometry height="80" width="80" x="2115" y="4625" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-164" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-166" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-165" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;errorCode: &lt;/span&gt;&lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;41308005&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="155" width="190" x="2275" y="4587.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-166" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="success.&lt;br&gt;already opened" vertex="1">
+          <mxGeometry height="60" width="120" x="2545" y="4635" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
