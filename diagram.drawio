@@ -564,7 +564,7 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-239" parent="1" style="whiteSpace=wrap;html=1;" value="return err msg&lt;br&gt;try again?" vertex="1">
           <mxGeometry height="60" width="120" x="635" y="1740" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-241" parent="1" style="whiteSpace=wrap;html=1;" value="return err msg" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-241" parent="1" style="whiteSpace=wrap;html=1;" value="return err msg?" vertex="1">
           <mxGeometry height="60" width="120" x="845" y="1332.5" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Polaris&lt;br&gt;/line/openAccount" vertex="1">
