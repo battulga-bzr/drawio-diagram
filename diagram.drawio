@@ -842,7 +842,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P7TJZT1PVnBYbLh7lMs1-129" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="already created schedule.&lt;br&gt;reconcile?" vertex="1">
+        <mxCell id="P7TJZT1PVnBYbLh7lMs1-129" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="race condition.&lt;br&gt;reconcile." vertex="1">
           <mxGeometry height="60" width="120" x="2903.75" y="3655" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-136" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7TJZT1PVnBYbLh7lMs1-135" value="">
