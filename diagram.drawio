@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="2816" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2730" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,7 +126,7 @@
         <mxCell id="KqixbsF9o6dLofBvsG9t-73" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Persist polaris account?" vertex="1">
           <mxGeometry height="60" width="120" x="2220" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="U8Ajh8Gpa-m2DNKNFQys-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="One-Tap loan request flow - async" vertex="1">
+        <mxCell id="U8Ajh8Gpa-m2DNKNFQys-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Loan request flow - async" vertex="1">
           <mxGeometry height="30" width="590" x="-800" y="750" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-1" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-4" value="">
@@ -163,7 +163,7 @@
             <mxPoint x="3329.5" y="1432.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-55" connectable="0" parent="In8fDh9ZLN2M87an2Miy-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="select * from loan_applications&lt;br&gt;where status = submitted&lt;br&gt;+ next_retry_at&lt;br&gt;+ processed_at is null&lt;br&gt;query" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-55" connectable="0" parent="In8fDh9ZLN2M87an2Miy-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="select * from loan_applications&lt;br&gt;where status = core_setup_pending&lt;br&gt;+ next_retry_at&lt;br&gt;+ processed_at is null&lt;br&gt;query" vertex="1">
           <mxGeometry relative="1" x="0.0637" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -212,7 +212,7 @@
         <mxCell id="In8fDh9ZLN2M87an2Miy-116" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="In8fDh9ZLN2M87an2Miy-53" parent="1" style="whiteSpace=wrap;html=1;" value="One tap worker" vertex="1">
+        <mxCell id="In8fDh9ZLN2M87an2Miy-53" parent="1" style="whiteSpace=wrap;html=1;" value="loan worker" vertex="1">
           <mxGeometry height="60" width="120" x="3587" y="1402.5" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-67" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-66" value="">
@@ -322,7 +322,7 @@
           <mxGeometry height="60" width="120" x="5308.87" y="2010" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Scheduler" vertex="1">
-          <mxGeometry height="60" width="120" x="3220" y="1397.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="3150" y="1402.5" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-127" edge="1" parent="1" source="In8fDh9ZLN2M87an2Miy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="In8fDh9ZLN2M87an2Miy-126" value="">
           <mxGeometry relative="1" as="geometry" />
