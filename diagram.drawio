@@ -550,7 +550,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-46" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="alternative batch calls in order" vertex="1">
-          <mxGeometry height="210" width="270" x="2040" y="1290" as="geometry" />
+          <mxGeometry height="240" width="270" x="2040" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-47" parent="P7TJZT1PVnBYbLh7lMs1-46" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;/loan/createAccount - no retry&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="270" y="30" as="geometry" />
@@ -569,6 +569,9 @@
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-52" parent="P7TJZT1PVnBYbLh7lMs1-46" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Inter, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica, Arial, sans-serif&quot; style=&quot;color: light-dark(rgb(188, 188, 188), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;CGW Trigger - no retry&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="270" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qCDKjLW8Sso5rAPR2upn-34" parent="P7TJZT1PVnBYbLh7lMs1-46" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Inter, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica, Arial, sans-serif&quot; style=&quot;color: light-dark(rgb(188, 188, 188), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;if BNPL -&amp;gt; casa tx - no retry&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="270" y="210" as="geometry" />
         </mxCell>
         <mxCell id="P7TJZT1PVnBYbLh7lMs1-55" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="777.5" width="405" x="-127" y="1022.5" as="geometry" />
