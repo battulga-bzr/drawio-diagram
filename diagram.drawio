@@ -932,8 +932,10 @@
         <mxCell id="qCDKjLW8Sso5rAPR2upn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="best effort calls" vertex="1">
           <mxGeometry height="60" width="120" x="2390" y="1365" as="geometry" />
         </mxCell>
-        <mxCell id="qCDKjLW8Sso5rAPR2upn-8" edge="1" parent="1" source="qCDKjLW8Sso5rAPR2upn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qCDKjLW8Sso5rAPR2upn-7" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qCDKjLW8Sso5rAPR2upn-8" edge="1" parent="1" source="qCDKjLW8Sso5rAPR2upn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qCDKjLW8Sso5rAPR2upn-45" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2750" y="1395" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-33" edge="1" parent="1" source="qCDKjLW8Sso5rAPR2upn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-185">
           <mxGeometry relative="1" as="geometry">
@@ -944,26 +946,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qCDKjLW8Sso5rAPR2upn-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="all&lt;br&gt;200" vertex="1">
+        <mxCell id="qCDKjLW8Sso5rAPR2upn-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="each&lt;br&gt;200" vertex="1">
           <mxGeometry height="80" width="80" x="2590" y="1355" as="geometry" />
-        </mxCell>
-        <mxCell id="qCDKjLW8Sso5rAPR2upn-12" edge="1" parent="1" source="qCDKjLW8Sso5rAPR2upn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qCDKjLW8Sso5rAPR2upn-11" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qCDKjLW8Sso5rAPR2upn-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="loan.status = active&lt;br&gt;loan_application.status = approved&lt;br&gt;release reserved amount&lt;br&gt;&lt;br&gt;mark queued rows as success" vertex="1">
-          <mxGeometry height="105" width="250" x="2750" y="1342.5" as="geometry" />
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#9e880d;&quot;&gt;@Transactional&lt;/span&gt;(propagation = &lt;span style=&quot;color:#000000;&quot;&gt;Propagation&lt;/span&gt;.&lt;span style=&quot;color:#871094;font-style:italic;&quot;&gt;REQUIRES_NEW&lt;/span&gt;)&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="240" x="2910" y="1232.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qCDKjLW8Sso5rAPR2upn-14" edge="1" parent="1" source="qCDKjLW8Sso5rAPR2upn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qCDKjLW8Sso5rAPR2upn-13" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qCDKjLW8Sso5rAPR2upn-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="BNPL?" vertex="1">
-          <mxGeometry height="80" width="80" x="3070" y="1355" as="geometry" />
-        </mxCell>
-        <mxCell id="qCDKjLW8Sso5rAPR2upn-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="bnpl row writes" vertex="1">
-          <mxGeometry height="60" width="120" x="3210" y="1365" as="geometry" />
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-16" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="persist" vertex="1">
           <mxGeometry height="60" width="120" x="2377.5" y="1880" as="geometry" />
@@ -1078,6 +1065,12 @@
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-38" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="/&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;getTmwJournalList&lt;br&gt;loan -&amp;gt; casa transaction NOT found&lt;/span&gt;" vertex="1">
           <mxGeometry height="175" width="342.5" x="1557.5" y="5420" as="geometry" />
+        </mxCell>
+        <mxCell id="qCDKjLW8Sso5rAPR2upn-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=21;" value="Each HTTP Call response handling" vertex="1">
+          <mxGeometry height="30" width="377.5" x="2742.5" y="1186.25" as="geometry" />
+        </mxCell>
+        <mxCell id="qCDKjLW8Sso5rAPR2upn-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Row status update, writes" vertex="1">
+          <mxGeometry height="60" width="120" x="2980" y="1365" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
