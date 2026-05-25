@@ -1067,7 +1067,7 @@
           <mxGeometry height="30" width="377.5" x="2742.5" y="1186.25" as="geometry" />
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Row status update, writes" vertex="1">
-          <mxGeometry height="60" width="120" x="2980" y="1365" as="geometry" />
+          <mxGeometry height="60" width="120" x="2975" y="1365" as="geometry" />
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-52" edge="1" parent="1" source="qCDKjLW8Sso5rAPR2upn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qCDKjLW8Sso5rAPR2upn-51" value="">
           <mxGeometry relative="1" as="geometry" />
