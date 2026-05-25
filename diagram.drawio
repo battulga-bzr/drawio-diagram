@@ -941,6 +941,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qCDKjLW8Sso5rAPR2upn-57" connectable="0" parent="qCDKjLW8Sso5rAPR2upn-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="on err,&lt;br&gt;halt the best effort calls" vertex="1">
+          <mxGeometry relative="1" x="-0.882" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="each&lt;br&gt;200" vertex="1">
           <mxGeometry height="80" width="80" x="2590" y="1355" as="geometry" />
         </mxCell>
