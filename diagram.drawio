@@ -1062,6 +1062,9 @@
         <mxCell id="qCDKjLW8Sso5rAPR2upn-31" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="return transaction success" vertex="1">
           <mxGeometry height="60" width="120" x="3530" y="1372.5" as="geometry" />
         </mxCell>
+        <mxCell id="qCDKjLW8Sso5rAPR2upn-35" edge="1" parent="1" source="P7TJZT1PVnBYbLh7lMs1-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="qCDKjLW8Sso5rAPR2upn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
