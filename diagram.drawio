@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="475" width="660" x="2720" y="1165" as="geometry" />
+          <mxGeometry height="475" width="660" x="2730" y="1165" as="geometry" />
         </mxCell>
         <mxCell id="In8fDh9ZLN2M87an2Miy-188" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="1965" width="1880" x="6070" y="3020" as="geometry" />
@@ -932,11 +932,6 @@
         <mxCell id="qCDKjLW8Sso5rAPR2upn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="best effort calls" vertex="1">
           <mxGeometry height="60" width="120" x="2390" y="1365" as="geometry" />
         </mxCell>
-        <mxCell id="qCDKjLW8Sso5rAPR2upn-8" edge="1" parent="1" source="qCDKjLW8Sso5rAPR2upn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qCDKjLW8Sso5rAPR2upn-45" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2750" y="1395" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-33" edge="1" parent="1" source="qCDKjLW8Sso5rAPR2upn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="In8fDh9ZLN2M87an2Miy-185">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1083,6 +1078,9 @@
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-53" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="return success to client&lt;br&gt;(&quot;Request succeeded, will be processed within 5-10 mins&quot;?)" vertex="1">
           <mxGeometry height="60" width="295" x="3432.5" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="qCDKjLW8Sso5rAPR2upn-55" edge="1" parent="1" source="qCDKjLW8Sso5rAPR2upn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;" target="qCDKjLW8Sso5rAPR2upn-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
