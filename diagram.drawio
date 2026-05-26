@@ -1237,7 +1237,7 @@
           <mxGeometry height="30" width="270" y="210" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Loan - /oneTapLoan" vertex="1">
-          <mxGeometry height="30" width="590" x="4790" y="1490" as="geometry" />
+          <mxGeometry height="30" width="590" x="4686.25" y="1490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
