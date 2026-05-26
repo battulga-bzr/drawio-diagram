@@ -1082,7 +1082,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-51" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="update queued rows as success" vertex="1">
-          <mxGeometry height="60" width="120" x="3705" y="1372.5" as="geometry" />
+          <mxGeometry height="167.5" width="272.5" x="3727.5" y="1318.75" as="geometry" />
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-53" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="return success to client&lt;br&gt;(&quot;Request succeeded, will be processed within 5-10 mins&quot;?)" vertex="1">
           <mxGeometry height="60" width="295" x="3432.5" y="1520" as="geometry" />
@@ -1091,7 +1091,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="return transaction success to client" vertex="1">
-          <mxGeometry height="60" width="120" x="3905" y="1372.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="4070" y="1372.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uHsufnLvHgNy1BAc2Bhp-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#9e880d;&quot;&gt;@Transactional&lt;/span&gt;(propagation = &lt;span style=&quot;color:#000000;&quot;&gt;Propagation&lt;/span&gt;.&lt;span style=&quot;color:#871094;font-style:italic;&quot;&gt;REQUIRES_NEW&lt;/span&gt;)&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="230" x="3760" y="1272.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
