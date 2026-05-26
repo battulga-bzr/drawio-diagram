@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="2720" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4647" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1096,7 +1096,7 @@
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#9e880d;&quot;&gt;@Transactional&lt;/span&gt;(propagation = &lt;span style=&quot;color:#000000;&quot;&gt;Propagation&lt;/span&gt;.&lt;span style=&quot;color:#871094;font-style:italic;&quot;&gt;REQUIRES_NEW&lt;/span&gt;)&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="230" x="3760" y="1272.5" as="geometry" />
         </mxCell>
-        <mxCell id="uHsufnLvHgNy1BAc2Bhp-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Loan request flow - async" vertex="1">
+        <mxCell id="uHsufnLvHgNy1BAc2Bhp-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Loan - getAvailable" vertex="1">
           <mxGeometry height="30" width="590" x="5480" y="460" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-31" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uHsufnLvHgNy1BAc2Bhp-30" value="">
