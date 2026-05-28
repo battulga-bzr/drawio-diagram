@@ -1073,7 +1073,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-123" parent="1" style="whiteSpace=wrap;html=1;" value="upsert&lt;br&gt;customer_profiles row&lt;br&gt;dan_verifications row&lt;br&gt;polaris cust_code" vertex="1">
-          <mxGeometry height="60" width="150" x="8800" y="-3337.5" as="geometry" />
+          <mxGeometry height="77.5" width="150" x="8800" y="-3345" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-125" parent="1" style="whiteSpace=wrap;html=1;" value="return &lt;br&gt;app deeplink" vertex="1">
           <mxGeometry height="60" width="120" x="9070" y="-3337.5" as="geometry" />
