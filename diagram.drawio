@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="1205" dy="5112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="5321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1292,13 +1292,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-216" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
-          <mxGeometry height="60" width="30" x="7035" y="-3620" as="geometry" />
+          <mxGeometry height="60" width="30" x="7000" y="-3670" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-222" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nraL1uL6iUxRU5UHk6Ls-221" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-217" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="/auth/customer/dan" vertex="1">
-          <mxGeometry height="60" width="150" x="7110" y="-3620" as="geometry" />
+          <mxGeometry height="60" width="150" x="7075" y="-3670" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-224" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nraL1uL6iUxRU5UHk6Ls-223" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1307,12 +1307,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-221" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="dan_verifications&lt;br&gt;row valid" vertex="1">
-          <mxGeometry height="120" width="158.13" x="7321.87" y="-3650" as="geometry" />
+          <mxGeometry height="120" width="158.13" x="7286.87" y="-3700" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-227" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="nraL1uL6iUxRU5UHk6Ls-225">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7625" y="-3460" />
+              <mxPoint x="7590" y="-3510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1320,13 +1320,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-223" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="customer_profile&lt;br&gt;cust_code exists" vertex="1">
-          <mxGeometry height="110" width="170.94" x="7539.07" y="-3645" as="geometry" />
+          <mxGeometry height="110" width="170.94" x="7504.07" y="-3695" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-225" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="return&lt;br&gt;dan required" vertex="1">
-          <mxGeometry height="60" width="120" x="7201.87" y="-3490" as="geometry" />
+          <mxGeometry height="60" width="120" x="7166.87" y="-3540" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-228" parent="1" style="whiteSpace=wrap;html=1;" value="return&lt;br&gt;dan verified" vertex="1">
-          <mxGeometry height="60" width="120" x="7815.48" y="-3620" as="geometry" />
+          <mxGeometry height="60" width="120" x="7780.48" y="-3670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
