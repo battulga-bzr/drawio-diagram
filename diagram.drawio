@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="1473" dy="5270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1263" dy="5146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1325,10 +1325,10 @@
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-223" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="customer_profile&lt;br&gt;cust_code exists" vertex="1">
           <mxGeometry height="110" width="170.94" x="7504.07" y="-3695" as="geometry" />
         </mxCell>
-        <mxCell id="nraL1uL6iUxRU5UHk6Ls-225" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="return&lt;br&gt;dan required" vertex="1">
-          <mxGeometry height="60" width="120" x="7166.87" y="-3540" as="geometry" />
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-225" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="return&lt;br&gt;dan required -&amp;nbsp;&lt;br&gt;{ verified: false, url: &quot;https://sso.gov.mn&lt;span style=&quot;color: rgb(57, 58, 52); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.2px; text-align: start; white-space: pre; background-color: rgb(246, 248, 250);&quot;&gt;/oauth2/authorize?response_type=code&amp;amp;...&lt;/span&gt;&quot;}" vertex="1">
+          <mxGeometry height="60" width="593.13" x="6690" y="-3540" as="geometry" />
         </mxCell>
-        <mxCell id="nraL1uL6iUxRU5UHk6Ls-228" parent="1" style="whiteSpace=wrap;html=1;" value="return&lt;br&gt;dan verified" vertex="1">
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-228" parent="1" style="whiteSpace=wrap;html=1;" value="return&lt;br&gt;dan verified -&lt;br&gt;{ verified: true, url: &quot;&quot;}" vertex="1">
           <mxGeometry height="60" width="120" x="7780.48" y="-3670" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-231" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;token-line&quot; style=&quot;box-sizing: border-box; color: rgb(57, 58, 52); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.2px; text-align: start; white-space: pre; background-color: rgb(246, 248, 250);&quot;&gt;&lt;span class=&quot;token plain&quot; style=&quot;box-sizing: border-box;&quot;&gt;GET /oauth2/api/v1/service HTTP/1.1&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token-line&quot; style=&quot;box-sizing: border-box; color: rgb(57, 58, 52); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.2px; text-align: start; white-space: pre; background-color: rgb(246, 248, 250);&quot;&gt;&lt;span class=&quot;token plain&quot; style=&quot;box-sizing: border-box;&quot;&gt;Host: sso.gov.mn&lt;/span&gt;&lt;/span&gt;" vertex="1">
