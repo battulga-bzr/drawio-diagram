@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="2618" dy="5444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2744" dy="5519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -714,9 +714,6 @@
         </mxCell>
         <mxCell id="qCDKjLW8Sso5rAPR2upn-38" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="/&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;getTmwJournalList&lt;br&gt;loan -&amp;gt; casa transaction NOT found&lt;/span&gt;" vertex="1">
           <mxGeometry height="175" width="342.5" x="1557.5" y="5420" as="geometry" />
-        </mxCell>
-        <mxCell id="uHsufnLvHgNy1BAc2Bhp-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="return transaction success to client" vertex="1">
-          <mxGeometry height="60" width="120" x="4070" y="1372.5" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Loan - /getAvailableLoanAmount" vertex="1">
           <mxGeometry height="30" width="590" x="4800" y="-60" as="geometry" />
