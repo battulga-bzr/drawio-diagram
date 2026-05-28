@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="1567" dy="4823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2176" dy="5183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -894,14 +894,14 @@
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-64" parent="1" style="whiteSpace=wrap;html=1;" value="400" vertex="1">
           <mxGeometry height="60" width="120" x="5350" y="1772.5" as="geometry" />
         </mxCell>
-        <mxCell id="uHsufnLvHgNy1BAc2Bhp-69" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uHsufnLvHgNy1BAc2Bhp-68" value="">
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-212" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nraL1uL6iUxRU5UHk6Ls-211" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-66" parent="1" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;horizontal=1;" value="persist error" vertex="1">
           <mxGeometry height="60" width="120" x="6665" y="1870.94" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-68" parent="1" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;horizontal=1;" value="return err to client" vertex="1">
-          <mxGeometry height="60" width="120" x="6665" y="2010.94" as="geometry" />
+          <mxGeometry height="60" width="120" x="6665" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-72" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uHsufnLvHgNy1BAc2Bhp-61">
           <mxGeometry relative="1" as="geometry" />
@@ -1327,6 +1327,18 @@
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-209" parent="1" style="whiteSpace=wrap;html=1;" value="retry job?" vertex="1">
           <mxGeometry height="60" width="120" x="8770" y="-1086.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-214" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nraL1uL6iUxRU5UHk6Ls-213" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-215" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uHsufnLvHgNy1BAc2Bhp-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-211" parent="1" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;horizontal=1;" value="CGW failed?" vertex="1">
+          <mxGeometry height="60" width="120" x="6665" y="2010.94" as="geometry" />
+        </mxCell>
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-213" parent="1" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;horizontal=1;" value="persist retry job" vertex="1">
+          <mxGeometry height="60" width="120" x="6865" y="2010.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
