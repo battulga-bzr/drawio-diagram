@@ -1414,14 +1414,16 @@
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-78" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="nraL1uL6iUxRU5UHk6Ls-81" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="7010" y="-3307.5" as="sourcePoint" />
+            <mxPoint x="7148.87" y="-3307.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nraL1uL6iUxRU5UHk6Ls-80" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nraL1uL6iUxRU5UHk6Ls-88" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-80" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nraL1uL6iUxRU5UHk6Ls-85" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7320" y="-3307.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-81" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="/dan-callback?" vertex="1">
-          <mxGeometry height="60" width="120" x="7080" y="-3337.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="7218.87" y="-3337.5" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Auth customer DAN - /auth/customer/dan" vertex="1">
           <mxGeometry height="30" width="590" x="6986.25" y="-3610" as="geometry" />
@@ -1438,20 +1440,14 @@
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-86" parent="1" style="whiteSpace=wrap;html=1;" value="400" vertex="1">
           <mxGeometry height="60" width="120" x="7530" y="-3177.5" as="geometry" />
         </mxCell>
-        <mxCell id="nraL1uL6iUxRU5UHk6Ls-87" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nraL1uL6iUxRU5UHk6Ls-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nraL1uL6iUxRU5UHk6Ls-88" parent="1" style="whiteSpace=wrap;html=1;" value="rate limiter?" vertex="1">
-          <mxGeometry height="60" width="120" x="7320" y="-3337.5" as="geometry" />
-        </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-92" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="req" vertex="1">
-          <mxGeometry height="60" width="140" x="7073" y="-3230" as="geometry" />
+          <mxGeometry height="60" width="140" x="7211.87" y="-3230" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-94" parent="nraL1uL6iUxRU5UHk6Ls-92" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="short-lived credential token?" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-104" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="dan server?" vertex="1">
-          <mxGeometry height="60" width="120" x="6880" y="-3337.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="7018.87" y="-3337.5" as="geometry" />
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-109" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nraL1uL6iUxRU5UHk6Ls-108" value="">
           <mxGeometry relative="1" as="geometry" />
