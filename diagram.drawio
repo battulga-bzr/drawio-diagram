@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="10540" dy="9620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3096" dy="5224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1684,6 +1684,9 @@
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-202" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nraL1uL6iUxRU5UHk6Ls-201" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-210" edge="1" parent="1" source="nraL1uL6iUxRU5UHk6Ls-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nraL1uL6iUxRU5UHk6Ls-209" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-199" parent="1" style="whiteSpace=wrap;html=1;" value="persist status = failed" vertex="1">
           <mxGeometry height="60" width="147.16" x="8529.26" y="-1086.25" as="geometry" />
         </mxCell>
@@ -1698,6 +1701,9 @@
         </mxCell>
         <mxCell id="nraL1uL6iUxRU5UHk6Ls-207" parent="1" style="whiteSpace=wrap;html=1;" value="return&lt;br&gt;require verification" vertex="1">
           <mxGeometry height="60" width="120" x="5466.5" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="nraL1uL6iUxRU5UHk6Ls-209" parent="1" style="whiteSpace=wrap;html=1;" value="retry job" vertex="1">
+          <mxGeometry height="60" width="120" x="8770" y="-1086.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
