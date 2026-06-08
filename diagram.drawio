@@ -759,7 +759,7 @@
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-30" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="&lt;div&gt;/getAvailableLoanAmount&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="5111.5" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="uHsufnLvHgNy1BAc2Bhp-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="available = limitAmount - sum(advAmount)" vertex="1">
+        <mxCell id="uHsufnLvHgNy1BAc2Bhp-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="available = approvedLimit - sum(advAmount)" vertex="1">
           <mxGeometry height="60" width="350" x="8200" y="390" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-40" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uHsufnLvHgNy1BAc2Bhp-39" value="">
