@@ -740,7 +740,7 @@
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-30" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="&lt;div&gt;/getAvailableLoanAmount&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="5111.5" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="uHsufnLvHgNy1BAc2Bhp-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="available = &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 153, 153));&quot;&gt;credit_score_results&lt;/font&gt;.approved_limit &lt;br&gt;- sum(advAmount) + sum( in-flight amounts)" vertex="1">
+        <mxCell id="uHsufnLvHgNy1BAc2Bhp-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="available = &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 153, 153));&quot;&gt;credit_score_results&lt;/font&gt;.approved_limit &lt;br&gt;- sum(advAmount) + &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 102, 102));&quot;&gt;sum( in-flight amounts)&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="703.44" x="7136.56" y="390" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-40" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uHsufnLvHgNy1BAc2Bhp-39" value="">
