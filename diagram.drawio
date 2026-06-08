@@ -675,15 +675,8 @@
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-8" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uHsufnLvHgNy1BAc2Bhp-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uHsufnLvHgNy1BAc2Bhp-10" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uHsufnLvHgNy1BAc2Bhp-15" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6380" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="idm15brxfLBhJh8JNUiF-6" connectable="0" parent="uHsufnLvHgNy1BAc2Bhp-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="filter by status=O" vertex="1">
-          <mxGeometry relative="1" x="-0.1424" y="-3" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="idm15brxfLBhJh8JNUiF-8" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="idm15brxfLBhJh8JNUiF-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;/loan/v1.0.0/&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(33, 33, 33); background-color: rgb(255, 255, 255);&quot;&gt;getCustomerLoanAccountList&lt;/span&gt;&lt;br&gt;(get OPEN loan accounts)&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="255" x="5930" y="390" as="geometry" />
@@ -695,13 +688,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-15" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;&quot;approvDate&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(4, 81, 165);&quot;&gt;&quot;2026-04-30T00:00:00&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;&quot;approvAmount&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(9, 134, 88);&quot;&gt;50000&lt;/span&gt;,&lt;br/&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;advAmount&quot;&lt;/span&gt;: &lt;span style=&quot;color: #098658;&quot;&gt;0&lt;br/&gt;....&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="352.5" x="6406.5599999999995" y="365" as="geometry" />
+          <mxGeometry height="110" width="352.5" x="6609.999999999999" y="365" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-37" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uHsufnLvHgNy1BAc2Bhp-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-20" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="sum(&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre;&quot;&gt;advAmount&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="6906.5599999999995" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="7049.999999999999" y="390" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-29" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uHsufnLvHgNy1BAc2Bhp-28" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -749,7 +742,7 @@
           <mxGeometry height="60" width="200" x="5111.5" y="265" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="available = &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 153, 153));&quot;&gt;credit_score_results&lt;/font&gt;.approved_limit &lt;br&gt;- ( sum(advAmount) + &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 153, 153));&quot;&gt;sum( in-flight amounts)&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 102, 102));&quot;&gt; &lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="703.44" x="7136.56" y="390" as="geometry" />
+          <mxGeometry height="60" width="530" x="7310" y="390" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-40" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uHsufnLvHgNy1BAc2Bhp-39" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1290,6 +1283,12 @@
         </mxCell>
         <mxCell id="idm15brxfLBhJh8JNUiF-5" parent="idm15brxfLBhJh8JNUiF-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="status = active" vertex="1">
           <mxGeometry height="30" width="165" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="idm15brxfLBhJh8JNUiF-9" edge="1" parent="1" source="idm15brxfLBhJh8JNUiF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uHsufnLvHgNy1BAc2Bhp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idm15brxfLBhJh8JNUiF-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="filter&lt;br&gt;status = O" vertex="1">
+          <mxGeometry height="60" width="120" x="6360" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
