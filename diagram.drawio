@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VCBSuIh8bz7kurrQ0Zaz">
-    <mxGraphModel dx="738" dy="4847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="4802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -743,8 +743,8 @@
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-30" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="&lt;div&gt;/getAvailableLoanAmount&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="5111.5" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="uHsufnLvHgNy1BAc2Bhp-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="available = approvedLimit - sum(advAmount)" vertex="1">
-          <mxGeometry height="60" width="350" x="7136.5599999999995" y="390" as="geometry" />
+        <mxCell id="uHsufnLvHgNy1BAc2Bhp-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="available = &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 153, 153));&quot;&gt;credit_score_results&lt;/font&gt;.approved_limit &lt;br&gt;- sum(advAmount)" vertex="1">
+          <mxGeometry height="60" width="703.44" x="7136.56" y="390" as="geometry" />
         </mxCell>
         <mxCell id="uHsufnLvHgNy1BAc2Bhp-40" edge="1" parent="1" source="uHsufnLvHgNy1BAc2Bhp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uHsufnLvHgNy1BAc2Bhp-39" value="">
           <mxGeometry relative="1" as="geometry" />
